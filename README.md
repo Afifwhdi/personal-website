@@ -57,5 +57,3 @@ Start the NextJS server:
 - [Framer Motion](https://www.framer.com/motion/) - Powerful motion library for React
 =======
 # personal-website
-ytta
->>>>>>> c945587ba9af3cb0ccd7e9d0e4910472a06e4083
