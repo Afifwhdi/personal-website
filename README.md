@@ -20,11 +20,11 @@ Make sure you have installed the following prerequisites before proceeding:
 
 1. Clone this repository to your local machine:
 
-   `git clone https://github.com/vickyadrii/personal-website-2.0.git`
+   `https://github.com/Afifwhdi/personal-website.git`
 
 2. Navigate to the project directory:
 
-   `cd personal-website-2.0`
+   `cd personal-website`
 
 3. Install all the required dependencies using npm or Yarn:
    ```bash
