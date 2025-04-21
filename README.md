@@ -20,11 +20,11 @@ Make sure you have installed the following prerequisites before proceeding:
 
 1. Clone this repository to your local machine:
 
-   `git clone https://github.com/vickyadrii/personal-website-2.0.git`
+   `https://github.com/Afifwhdi/personal-website.git`
 
 2. Navigate to the project directory:
 
-   `cd personal-website-2.0`
+   `cd personal-website`
 
 3. Install all the required dependencies using npm or Yarn:
    ```bash
@@ -43,10 +43,6 @@ Start the NextJS server:
    yarn dev
 ```
 
-## ----------------------------------------------------------------------------------------
-
-- Figma Design: [Click here](https://www.figma.com/design/x1Xi3a4HqSwH5ASvyowM5v/Personal-Website-2.0)
-- Link demo: https://vickyadrii.my.id
 
 ## Built With
 
@@ -57,5 +53,3 @@ Start the NextJS server:
 - [Framer Motion](https://www.framer.com/motion/) - Powerful motion library for React
 =======
 # personal-website
-ytta
->>>>>>> c945587ba9af3cb0ccd7e9d0e4910472a06e4083
