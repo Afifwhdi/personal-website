@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #ffffff;
+  background: linear-gradient(to bottom, transparent, #0a0a0a) #0b0b0b;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+:-webkit-autofill,
+:-webkit-autofill:hover,
+:-webkit-autofill:focus {
+  -webkit-box-shadow:
+    0 0 0px 1000px rgba(0, 0, 0, 0.5) inset,
+    0 0 0px 1000px #000000 inset;
+  -webkit-text-fill-color: #ffffff;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #ffffff;
+}
+
+.gradient-text {
+  background: linear-gradient(to right, #9c9595, #fff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
